@@ -1,0 +1,5 @@
+/work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio05/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio05/bin/Debug/Lista4Exercicio05.exe.mdb
+/work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio05/bin/Debug/Lista4Exercicio05.exe
+/work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio05/obj/x86/Debug/Lista4Exercicio05.exe
+/work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio05/obj/x86/Debug/Lista4Exercicio05.exe.mdb

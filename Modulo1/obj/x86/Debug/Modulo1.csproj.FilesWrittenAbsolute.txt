@@ -1,0 +1,5 @@
+/home/william/Documents/Projects/wind39.github.io/curso/Modulo1/Modulo1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/william/Documents/Projects/wind39.github.io/curso/Modulo1/Modulo1/bin/Debug/Modulo1.exe.mdb
+/home/william/Documents/Projects/wind39.github.io/curso/Modulo1/Modulo1/bin/Debug/Modulo1.exe
+/home/william/Documents/Projects/wind39.github.io/curso/Modulo1/Modulo1/obj/x86/Debug/Modulo1.exe
+/home/william/Documents/Projects/wind39.github.io/curso/Modulo1/Modulo1/obj/x86/Debug/Modulo1.exe.mdb
