@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Modulo1
 {
@@ -6,42 +7,24 @@ namespace Modulo1
     {
         public static void Main(string[] args)
         {
-			int[] vetor;
-            int aux;
-			
-            vetor = new int[5];
+            List<int> vetor;
+            int n;
 
-			/*vetor[0] = 4;
-			vetor[1] = 7;
-			vetor[2] = 10;
-			vetor[3] = 1;
-			vetor[4] = 5;*/
+            vetor = new List<int>();
 
-            vetor[0] = 9000;
-            vetor[1] = 1800;
-            vetor[2] = 250;
-            vetor[3] = 0;
-            vetor[4] = -35;
+            Console.Write("Quantos números? ");
+            n = int.Parse(Console.ReadLine());
 
-			// Início algoritmo Bubble Sort
-
-            for (int a = 0; a < vetor.Length - 1; a++)
+            for (int i = 1; i <= n; i++)
             {
-                for (int x = a + 1; x < vetor.Length; x++)
-                {
-                    if (vetor[a] > vetor[x])
-                    {
-                        aux = vetor[x];
-                        vetor[x] = vetor[a];
-                        vetor[a] = aux;
-                    }
-                }
+                Console.Write("Digite o número {0}: ", i);
+                vetor.Add(int.Parse(Console.ReadLine()));
             }
 
-            // Fim algoritmo Bubble Sort
+            Console.WriteLine("Os números que você digitou, na ordem inversa, são: ");
 
-			for (int i = 0; i < vetor.Length; i++)
-				Console.WriteLine (vetor[i]);
+            for (int i = vetor.Count-1; i >= 0; i--)
+                Console.WriteLine(vetor[i]);
 
             Console.ReadKey();
         }

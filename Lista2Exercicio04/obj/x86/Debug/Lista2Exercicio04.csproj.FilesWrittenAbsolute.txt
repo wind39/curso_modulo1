@@ -8,3 +8,8 @@
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista2Exercicio04/bin/Debug/Lista2Exercicio04.exe
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista2Exercicio04/obj/x86/Debug/Lista2Exercicio04.exe
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista2Exercicio04/obj/x86/Debug/Lista2Exercicio04.exe.mdb
+/home/william/Documents/Projects/curso_modulo1/Lista2Exercicio04/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/william/Documents/Projects/curso_modulo1/Lista2Exercicio04/bin/Debug/Lista2Exercicio04.exe.mdb
+/home/william/Documents/Projects/curso_modulo1/Lista2Exercicio04/bin/Debug/Lista2Exercicio04.exe
+/home/william/Documents/Projects/curso_modulo1/Lista2Exercicio04/obj/x86/Debug/Lista2Exercicio04.exe
+/home/william/Documents/Projects/curso_modulo1/Lista2Exercicio04/obj/x86/Debug/Lista2Exercicio04.exe.mdb

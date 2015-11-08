@@ -1,0 +1,5 @@
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio13/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio13/bin/Debug/Lista4Exercicio13.exe.mdb
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio13/bin/Debug/Lista4Exercicio13.exe
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio13/obj/x86/Debug/Lista4Exercicio13.exe
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio13/obj/x86/Debug/Lista4Exercicio13.exe.mdb

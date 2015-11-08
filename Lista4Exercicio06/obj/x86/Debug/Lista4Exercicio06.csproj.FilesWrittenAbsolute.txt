@@ -3,3 +3,8 @@
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio06/bin/Debug/Lista4Exercicio06.exe
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio06/obj/x86/Debug/Lista4Exercicio06.exe
 /work/projects/Repositories/wind39.github.io/curso/Modulo1/Lista4Exercicio06/obj/x86/Debug/Lista4Exercicio06.exe.mdb
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio06/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio06/bin/Debug/Lista4Exercicio06.exe.mdb
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio06/bin/Debug/Lista4Exercicio06.exe
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio06/obj/x86/Debug/Lista4Exercicio06.exe
+/home/william/Documents/Projects/curso_modulo1/Lista4Exercicio06/obj/x86/Debug/Lista4Exercicio06.exe.mdb
